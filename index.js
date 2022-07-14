@@ -53,6 +53,6 @@ try {
 
 getBlogContent();
 
-const loadAdds() => {
+const loadAdds = () => {
   console.log('Adds loaded');
 }
